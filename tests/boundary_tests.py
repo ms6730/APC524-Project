@@ -1,5 +1,3 @@
-______________________TESTING THE BOUNDARING CONDITION FUNCTION __________________________
-
 def test_boundary_conditions():
 
 
