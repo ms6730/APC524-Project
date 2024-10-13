@@ -1,6 +1,4 @@
-
 def test_initialize_function():
-    
     nx = 100
     L = 1
     
