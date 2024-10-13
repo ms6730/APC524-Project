@@ -1,5 +1,3 @@
-___________________ TESTING THE INITIALIZATION FUNCTION FOR CORRECT SETUP -------------------
-
 
 def test_initialize_function():
     
